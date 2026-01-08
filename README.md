@@ -1,86 +1,71 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0095D5&height=280&section=header&text=Samitha%20Tharanga&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Entrepreneur%20%7C%20Developer%20%7C%20Designer&descAlignY=55&descAlign=55" alt="Samitha Tharanga Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=Samitha%20Tharanga&fontSize=70&fontColor=00f3ff&fontAlignY=40&animation=fadeIn&stroke=00f3ff&strokeWidth=2&desc=Cyber%20Entrepreneur%20%7C%20Tech%20Innovator&descAlignY=75&descAlign=50&descSize=20" width="100%" />
 </div>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21759B&center=true&vCenter=true&width=435&lines=Founder+of+ST+Imagix+🚀;Building+Nadee+Flora+House+🌱;Android+Developer+%26+Designer+🎨;IT+Undergraduate+@+NIIBS+🎓" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F3FF&background=0D111700&center=true&vCenter=true&width=435&lines=Founder+of+ST+Imagix+🚀;Owner+of+Zilong+Lanka+🛍️;Building+Nadee+Flora+House+App+🌱;Full+Stack+Developer+|+Designer+🎨" alt="Typing Animation" />
   </a>
 </h3>
 
-<hr/>
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <p>
-        Ayubowan! 🙏 I am <b>Samitha Tharanga Wijesinghe</b>, a tech-savvy <b>Entrepreneur</b> and <b>IT Undergraduate</b> based in Tissamaharama, Sri Lanka. 
-      </p>
-      <p>
-        I specialize in building digital brands and software solutions. My goal is to empower businesses with modern technology, from <b>Android Apps</b> to <b>E-commerce Websites</b>.
-      </p>
-      
-      <h3>🚀 Current Ventures</h3>
-      <ul>
-        <li>
-            <b>🏢 <a href="#">ST Imagix</a>:</b> My personal brand providing professional Graphic Design, UI/UX, and Web Development services.
-        </li>
-        <li>
-            <b>🌸 <a href="#">Nadee Flora House</a>:</b> Currently digitalizing this business with a custom Mobile App and Website.
-        </li>
-        <li>
-            <b>🛍️ <a href="#">Zilong Lanka</a>:</b> Managing an E-commerce gift platform.
-        </li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <h3 align="center">📈 GitHub Analytics</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=samithatharanga&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="Samitha Tharanga GitHub Stats" width="100%" />
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=samithatharanga&theme=radical&hide_border=true&bg_color=0d1117" alt="Samitha Tharanga Git Streak" width="100%" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=samithatharanga&label=PROFILE%20VIEWS&color=00f3ff&style=for-the-badge&label_color=0D1117" alt="Profile Views" />
+</div>
 
 <br/>
 
-<div align="center">
-  <h2>🛠️ Technologies & Tools</h2>
-  <p>My technical arsenal for building world-class solutions.</p>
-  
+<div align="center"> 
+  <h2>👨‍💻 About Me</h2>
   <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,wordpress,html,css,js,php,mysql,figma,ps,ai,pr,git,github&perline=8" alt="Tech Stack Icons" />
-    </a>
+    Ayubowan! 🙏 I am <b>Samitha Tharanga Wijesinghe</b>, a visionary <b>Entrepreneur</b> and <b>IT Undergraduate (NIIBS)</b> based in <b>Tissamaharama, Sri Lanka</b>.
+  </p>
+  <p>
+    I bridge the gap between business and technology. Currently, I am focused on digitalizing traditional markets through <b>ST Imagix</b> and building the future of floral e-commerce with <b>Nadee Flora House</b>.
   </p>
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>📫 Let's Connect</h2>
-  <p>Open for collaborations, freelance projects, and business partnerships.</p>
-  
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <h3>🚀 Ventures & Projects</h3>
+  <p><b>🏢 ST Imagix</b><br/>Premium Graphic Design, UI/UX, and Cyber-secure Software Solutions.</p>
+  <p><b>🌸 Nadee Flora House</b><br/>A Next-Gen Mobile App & Web Platform for the floral industry.</p>
+  <p><b>🛍️ Zilong Lanka</b><br/>Innovative E-commerce & Trading Platform.</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📈 Github Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=samithatharanga&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00f3ff&icon_color=00f3ff" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samithatharanga&theme=tokyonight&hide_border=false&bg_color=0D1117&ring=00f3ff&currStreakLabel=00f3ff" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🛠️ Cyber Arsenal (Tech Stack)</h2>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,wordpress,html,css,js,php,mysql,figma,ps,ai,pr,git,github,vscode&perline=9&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>📫 Connect with Samitha</h2>
+  <a href="mailto:samithatharangawijesinghe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://lk.linkedin.com/in/samitha-tharanga-wijesinghe">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/your-profile">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.facebook.com/SamithaTharangaWijesinghe">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://wa.me/947XXXXXXXX">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <a href="https://wa.me/94703959933">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
   <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=samithatharanga&label=Profile%20Views&color=0095D5&style=flat" alt="Profile Views" />
-  
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0095D5&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=50&section=footer&text=Designed%20by%20ST%20Imagix&fontSize=20&fontColor=00f3ff&animation=fadeIn" width="100%" />
 </div>
