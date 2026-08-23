@@ -102,6 +102,22 @@
 
 <br/>
 
+<!-- GITHUB SNAKE ANIMATION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/samithatharanga/samithatharanga/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</div>
+
+<br/>
+
+<!-- GITHUB TROPHIES -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00f3ff&text=🏆%20SYS.TROPHIES&height=50&fontSize=30" alt="GitHub Trophies" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=samithatharanga&theme=radical&no-bg=true&margin-w=15&margin-h=15&column=4" alt="Samitha Tharanga GitHub Trophies" />
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00f3ff&text=📈%20SYS.METRICS&height=50&fontSize=30" alt="GitHub Metrics" />
   <br/>
@@ -109,6 +125,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=samithatharanga&show_icons=true&theme=matrix&hide_border=true" alt="Samitha Tharanga GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samithatharanga&theme=matrix&hide_border=true" alt="Samitha Tharanga GitHub Streak" />
+  <br/><br/>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samithatharanga&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <br/>
