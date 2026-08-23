@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Matrix Matrix/Hacker Vibe Header -->
+  <!-- Matrix/Hacker Vibe Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Samitha%20Tharanga&fontSize=70&fontColor=00f3ff&fontAlignY=35&animation=fadeIn&stroke=00f3ff&strokeWidth=2&desc=Cybersecurity%20Enthusiast%20%7C%20Full-Stack%20Product%20Builder&descAlignY=65&descAlign=50&descSize=20&customColorList=1&fontAlign=50" alt="Samitha Tharanga Wijesinghe - Cybersecurity Enthusiast & Full-Stack Developer Sri Lanka" width="100%" />
 </div>
 
@@ -60,8 +60,8 @@
       <td align="center" width="50%" style="background-color: #0d1117; border: 1px dashed #00ff00; border-radius: 5px; padding: 20px;">
         <h3 style="color: #00f3ff; margin-top: 0; font-family: monospace;">[⚡] PromptCraft v2.0</h3>
         <p style="color: #8b949e; font-size: 13px; font-family: monospace;">The perfect AI prompt builder frontend micro-tool to generate structured LLM prompts.</p>
-        <a href="https://github.com/samithatharanga/promptcraft"><img src="https://img.shields.io/badge/CODE-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://samithatharanga.github.io/promptcraft/"><img src="https://img.shields.io/badge/LIVE-0078D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/samithatharanga/promptcraft-v2"><img src="https://img.shields.io/badge/CODE-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://promptcraft-v2.netlify.app"><img src="https://img.shields.io/badge/LIVE-0078D4?style=for-the-badge&logo=netlify&logoColor=white" /></a>
       </td>
       <td align="center" width="50%" style="background-color: #0d1117; border: 1px dashed #00ff00; border-radius: 5px; padding: 20px;">
         <h3 style="color: #00f3ff; margin-top: 0; font-family: monospace;">[🖼️] Image Optimizer Pro</h3>
